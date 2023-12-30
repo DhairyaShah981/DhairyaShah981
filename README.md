@@ -23,6 +23,7 @@ My professional passion lies in Machine Learning and Data Science. If you're int
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](mailto:dhairya.shah@iitgn.ac.in)
 [![X](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhairya_shah09)
 
+Website: https://dhairyashah981.github.io/
   
 ### Skills
 
